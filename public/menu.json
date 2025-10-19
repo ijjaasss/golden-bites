@@ -1,0 +1,974 @@
+[
+  {
+    "id": 1,
+    "category": "Starters",
+    "name": "Chicken Nugget 8pc",
+    "type": "Non Veg",
+    "price": "₹119",
+    "description": "Crispy golden chicken nuggets",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 2,
+    "category": "Starters",
+    "name": "Chicken Popcorn",
+    "type": "Non Veg",
+    "price": "₹139",
+    "description": "Bite-sized crispy chicken pieces",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 3,
+    "category": "Starters",
+    "name": "Chicken Strips 3pcs",
+    "type": "Non Veg",
+    "price": "₹139",
+    "description": "Crispy chicken strips",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 4,
+    "category": "Starters",
+    "name": "Chicken Strips 6pcs",
+    "type": "Non Veg",
+    "price": "₹269",
+    "description": "Crispy chicken strips",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 5,
+    "category": "Starters",
+    "name": "Fried Wings 4 pcs",
+    "type": "Non Veg",
+    "price": "₹129",
+    "description": "Crispy fried chicken wings",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 6,
+    "category": "Starters",
+    "name": "Fried Wings 8 pcs",
+    "type": "Non Veg",
+    "price": "₹219",
+    "description": "Crispy fried chicken wings",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 7,
+    "category": "Starters",
+    "name": "Fish Fingers 3pcs",
+    "type": "Non Veg",
+    "price": "₹179",
+    "description": "Crispy fish fingers",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 8,
+    "category": "Starters",
+    "name": "Fish Fingers 6pcs",
+    "type": "Non Veg",
+    "price": "₹319",
+    "description": "Crispy fish fingers",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 9,
+    "category": "Starters",
+    "name": "Chicken Loaded Fries",
+    "type": "Non Veg",
+    "price": "₹169",
+    "description": "Fries loaded with chicken toppings",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 10,
+    "category": "Starters",
+    "name": "French Fries",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Crispy golden fries",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 11,
+    "category": "Starters",
+    "name": "Peri Peri Fries",
+    "type": "Veg",
+    "price": "₹109",
+    "description": "Spicy peri peri seasoned fries",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 12,
+    "category": "Starters",
+    "name": "Garlic Cheese Balls 8 pcs",
+    "type": "Veg",
+    "price": "₹139",
+    "description": "Garlic flavored cheese balls",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 13,
+    "category": "Starters",
+    "name": "Cheese Balls 6 pcs",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Crispy cheese balls",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 14,
+    "category": "Burger",
+    "name": "Fried Chicken Burger",
+    "type": "Non Veg",
+    "price": "₹139",
+    "description": "Crispy fried chicken patty",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 15,
+    "category": "Burger",
+    "name": "Grill Chicken Burger",
+    "type": "Non Veg",
+    "price": "₹149",
+    "description": "Grilled chicken breast patty",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 16,
+    "category": "Burger",
+    "name": "Classic Chicken Burger",
+    "type": "Non Veg",
+    "price": "₹149",
+    "description": "Classic chicken burger",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 17,
+    "category": "Burger",
+    "name": "Fish Burger",
+    "type": "Non Veg",
+    "price": "₹159",
+    "description": "Crispy fish patty burger",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 18,
+    "category": "Burger",
+    "name": "Veg Burger",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Fresh vegetable patty",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 19,
+    "category": "Burger",
+    "name": "Aloo Tikki",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Spicy potato patty burger",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 20,
+    "category": "Burger",
+    "name": "Cheese Delight Burger",
+    "type": "Veg",
+    "price": "₹109",
+    "description": "Cheese filled vegetable burger",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 21,
+    "category": "Burger",
+    "name": "Paneer Burger",
+    "type": "Veg",
+    "price": "₹139",
+    "description": "Crispy paneer patty",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 22,
+    "category": "Wraps",
+    "name": "Fried Chicken Wrap",
+    "type": "Non Veg",
+    "price": "₹99",
+    "description": "Crispy fried chicken wrap",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 23,
+    "category": "Wraps",
+    "name": "Signature Chicken Wrap",
+    "type": "Non Veg",
+    "price": "₹99",
+    "description": "Special signature chicken wrap",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 24,
+    "category": "Wraps",
+    "name": "Fish Wrap",
+    "type": "Non Veg",
+    "price": "₹129",
+    "description": "Crispy fish wrap",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 25,
+    "category": "Wraps",
+    "name": "Veg Wrap",
+    "type": "Veg",
+    "price": "₹89",
+    "description": "Fresh vegetable wrap",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 26,
+    "category": "Wraps",
+    "name": "Paneer Wrap",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Spicy paneer wrap",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 27,
+    "category": "Pizza",
+    "name": "Classic Fried Chicken Pizza",
+    "type": "Non Veg",
+    "price": "₹179",
+    "description": "Crispy fried chicken on pizza",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 28,
+    "category": "Pizza",
+    "name": "Mexican Chicken Pizza",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Spicy Mexican style chicken pizza",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 29,
+    "category": "Pizza",
+    "name": "Turkish Chicken Pizza",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Turkish style chicken pizza",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 30,
+    "category": "Pizza",
+    "name": "Sweet Corn Pizza",
+    "type": "Veg",
+    "price": "₹179",
+    "description": "Fresh sweet corn pizza",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 31,
+    "category": "Pizza",
+    "name": "Chilli Paneer Pizza",
+    "type": "Veg",
+    "price": "₹199",
+    "description": "Spicy paneer pizza",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 32,
+    "category": "Pasta",
+    "name": "Alfredo Pasta Veg",
+    "type": "Veg",
+    "price": "₹179",
+    "description": "Creamy alfredo sauce",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 33,
+    "category": "Pasta",
+    "name": "Alfredo Pasta Non Veg",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Creamy alfredo with chicken",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 34,
+    "category": "Pasta",
+    "name": "Arabiate Pasta Veg",
+    "type": "Veg",
+    "price": "₹179",
+    "description": "Spicy arabiata pasta",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 35,
+    "category": "Pasta",
+    "name": "Arabiate Pasta Non Veg",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Spicy arabiata pasta with chicken",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 36,
+    "category": "Pasta",
+    "name": "Pesto Pasta Veg",
+    "type": "Veg",
+    "price": "₹179",
+    "description": "Fresh pesto sauce",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 37,
+    "category": "Pasta",
+    "name": "Pesto Pasta Non Veg",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Fresh pesto with chicken",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 38,
+    "category": "Pasta",
+    "name": "GB Special Pasta Veg",
+    "type": "Veg",
+    "price": "₹179",
+    "description": "Golden Bites special pasta",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 39,
+    "category": "Pasta",
+    "name": "GB Special Pasta Non Veg",
+    "type": "Non Veg",
+    "price": "₹199",
+    "description": "Golden Bites special pasta with chicken",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 40,
+    "category": "Club Sandwich",
+    "name": "Chicken Sandwich",
+    "type": "Non Veg",
+    "price": "₹139",
+    "description": "Crispy chicken club sandwich",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 41,
+    "category": "Club Sandwich",
+    "name": "Veg Sandwich",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Fresh vegetable sandwich",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 42,
+    "category": "Rice Bowl",
+    "name": "Rice with Chicken Popcorn",
+    "type": "Non Veg",
+    "price": "₹159",
+    "description": "Rice served with chicken popcorn",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 43,
+    "category": "Rice Bowl",
+    "name": "Rice with Fried Chicken",
+    "type": "Non Veg",
+    "price": "₹169",
+    "description": "Rice served with fried chicken",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 44,
+    "category": "Masala Shawaya",
+    "name": "Shawaya QTR",
+    "type": "Non Veg",
+    "price": "₹149",
+    "description": "Quarter portion of masala shawaya",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 45,
+    "category": "Masala Shawaya",
+    "name": "Shawaya Half",
+    "type": "Non Veg",
+    "price": "₹279",
+    "description": "Half portion of masala shawaya",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 46,
+    "category": "Masala Shawaya",
+    "name": "Shawaya Full",
+    "type": "Non Veg",
+    "price": "₹549",
+    "description": "Full portion of masala shawaya",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 47,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice QTR",
+    "type": "Non Veg",
+    "price": "₹219",
+    "description": "Quarter shawaya with rice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 48,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice Half",
+    "type": "Non Veg",
+    "price": "₹419",
+    "description": "Half shawaya with rice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 49,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice Full",
+    "type": "Non Veg",
+    "price": "₹799",
+    "description": "Full shawaya with rice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 50,
+    "category": "Combo Meals",
+    "name": "Fried Chicken 1 pc",
+    "type": "Non Veg",
+    "price": "₹99",
+    "description": "1 piece fried chicken combo",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 51,
+    "category": "Combo Meals",
+    "name": "Fried Chicken 2 pcs",
+    "type": "Non Veg",
+    "price": "₹179",
+    "description": "2 pieces fried chicken combo",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 52,
+    "category": "Combo Meals",
+    "name": "Fried Chicken 4 pcs",
+    "type": "Non Veg",
+    "price": "₹349",
+    "description": "4 pieces fried chicken combo",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 53,
+    "category": "Combo Meals",
+    "name": "Fried Chicken 8 pcs",
+    "type": "Non Veg",
+    "price": "₹649",
+    "description": "8 pieces fried chicken combo",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 54,
+    "category": "Hot Beverages",
+    "name": "Filter Coffee",
+    "type": "Veg",
+    "price": "₹59",
+    "description": "Traditional filter coffee",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 55,
+    "category": "Hot Beverages",
+    "name": "Cappuccino",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Creamy cappuccino",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 56,
+    "category": "Hot Beverages",
+    "name": "Americano",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Strong Americano coffee",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 57,
+    "category": "Hot Beverages",
+    "name": "Café Latte",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Smooth café latte",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 58,
+    "category": "Hot Beverages",
+    "name": "Flat White",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Creamy flat white coffee",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 59,
+    "category": "Hot Beverages",
+    "name": "Expresso",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Strong espresso shot",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 60,
+    "category": "Hot Beverages",
+    "name": "Café Mocha",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Chocolate coffee blend",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 61,
+    "category": "Hot Beverages",
+    "name": "Hot Chocolate",
+    "type": "Veg",
+    "price": "₹89",
+    "description": "Rich hot chocolate",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 62,
+    "category": "Fresh Juice",
+    "name": "Lime Juice",
+    "type": "Veg",
+    "price": "₹39",
+    "description": "Fresh lime juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 63,
+    "category": "Fresh Juice",
+    "name": "Mint Lime",
+    "type": "Veg",
+    "price": "₹49",
+    "description": "Refreshing mint lime juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 64,
+    "category": "Fresh Juice",
+    "name": "Pineapple Lime",
+    "type": "Veg",
+    "price": "₹49",
+    "description": "Pineapple with lime juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 65,
+    "category": "Fresh Juice",
+    "name": "Lemon Soda",
+    "type": "Veg",
+    "price": "₹49",
+    "description": "Sparkling lemon soda",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 66,
+    "category": "Fresh Juice",
+    "name": "Watermelon Juice",
+    "type": "Veg",
+    "price": "₹59",
+    "description": "Refreshing watermelon juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 67,
+    "category": "Fresh Juice",
+    "name": "Mosambi Juice",
+    "type": "Veg",
+    "price": "₹59",
+    "description": "Sweet mosambi juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 68,
+    "category": "Fresh Juice",
+    "name": "Pineapple Juice",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Fresh pineapple juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 69,
+    "category": "Fresh Juice",
+    "name": "Apple Juice",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Fresh apple juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 70,
+    "category": "Fresh Juice",
+    "name": "Pomegranate Juice",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Fresh pomegranate juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 71,
+    "category": "Fresh Juice",
+    "name": "Mango Juice",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Fresh mango juice",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 72,
+    "category": "Milk Shake",
+    "name": "Kannur Cocktail",
+    "type": "Veg",
+    "price": "₹79",
+    "description": "Special Kannur cocktail shake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 73,
+    "category": "Milk Shake",
+    "name": "Oreo Shake",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Creamy Oreo milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 74,
+    "category": "Milk Shake",
+    "name": "Chikku Shake",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Chikku fruit milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 75,
+    "category": "Milk Shake",
+    "name": "Chocolate Shake",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Rich chocolate milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 76,
+    "category": "Milk Shake",
+    "name": "Litchi Shake",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Refreshing litchi milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 77,
+    "category": "Milk Shake",
+    "name": "Strawberry Shake",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Fresh strawberry milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 78,
+    "category": "Milk Shake",
+    "name": "Pina Colada Shake",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Tropical pina colada milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 79,
+    "category": "Milk Shake",
+    "name": "Mango Shake",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Fresh mango milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 80,
+    "category": "Milk Shake",
+    "name": "Blue Berry Shake",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Blueberry milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 81,
+    "category": "Milk Shake",
+    "name": "Lotus Biscoff Shake",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Lotus biscoff milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 82,
+    "category": "Milk Shake",
+    "name": "Blackberry Shake",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Blackberry milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 83,
+    "category": "Milk Shake",
+    "name": "Kitkat Shake",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Kitkat chocolate milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 84,
+    "category": "Milk Shake",
+    "name": "Nutella Shake",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Nutella chocolate milkshake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 85,
+    "category": "Mojitos",
+    "name": "Virgin Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Refreshing virgin mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 86,
+    "category": "Mojitos",
+    "name": "Blue Berry Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Blueberry mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 87,
+    "category": "Mojitos",
+    "name": "Green Apple Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Green apple mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 88,
+    "category": "Mojitos",
+    "name": "Blue Lagoon Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Blue lagoon mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 89,
+    "category": "Mojitos",
+    "name": "Spicy Mango Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Spicy mango mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 90,
+    "category": "Mojitos",
+    "name": "Chilli Guava Mojito",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Chilli guava mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 91,
+    "category": "Mojitos",
+    "name": "Passion Fruit Mojito",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Tropical passion fruit mojito",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 92,
+    "category": "Mojitos",
+    "name": "Yuzu Lemonade",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Yuzu flavored lemonade",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 93,
+    "category": "Special Falooda",
+    "name": "Special Falooda",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Special falooda dessert drink",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 94,
+    "category": "Lassi",
+    "name": "Lassi Sweet",
+    "type": "Veg",
+    "price": "₹59",
+    "description": "Sweet traditional lassi",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 95,
+    "category": "Lassi",
+    "name": "Lassi Salt",
+    "type": "Veg",
+    "price": "₹59",
+    "description": "Salty traditional lassi",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 96,
+    "category": "Cold Coffee",
+    "name": "Café Frape",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Iced coffee frappe",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 97,
+    "category": "Cold Coffee",
+    "name": "Hazelnut Frape",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Hazelnut coffee frappe",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 98,
+    "category": "Cold Coffee",
+    "name": "Caramel Frape",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Caramel coffee frappe",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 99,
+    "category": "Avil Milk",
+    "name": "Normal Avil Milk",
+    "type": "Veg",
+    "price": "₹49",
+    "description": "Traditional avil milk",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 100,
+    "category": "Avil Milk",
+    "name": "Special Avil Milk",
+    "type": "Veg",
+    "price": "₹69",
+    "description": "Special avil milk",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 101,
+    "category": "Dessert",
+    "name": "Choco Lava",
+    "type": "Veg",
+    "price": "₹49",
+    "description": "Molten chocolate cake",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 102,
+    "category": "Dessert",
+    "name": "Brownie Fudge",
+    "type": "Veg",
+    "price": "₹99",
+    "description": "Rich brownie fudge",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 103,
+    "category": "Dessert",
+    "name": "Pan Cake with Nutella",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Pancake with Nutella spread",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 104,
+    "category": "Dessert",
+    "name": "Waffle with Nutella",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Crispy waffle with Nutella",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 105,
+    "category": "Dessert",
+    "name": "Waffle with Biscoff",
+    "type": "Veg",
+    "price": "₹119",
+    "description": "Crispy waffle with Biscoff",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 106,
+    "category": "Dessert",
+    "name": "Waffle - Nutella with Ice Cream",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Waffle with Nutella and ice cream",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 107,
+    "category": "Dessert",
+    "name": "Waffle - Biscoff with Ice Cream",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Waffle with Biscoff and ice cream",
+    "image": "/placeholder.svg?height=160&width=280"
+  },
+  {
+    "id": 108,
+    "category": "Dessert",
+    "name": "Nutella And Biscoff Waffle",
+    "type": "Veg",
+    "price": "₹149",
+    "description": "Waffle with both Nutella and Biscoff",
+    "image": "/placeholder.svg?height=160&width=280"
+  }
+]
