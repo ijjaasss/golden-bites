@@ -132,7 +132,7 @@
     "type": "Non Veg",
     "price": "₹149",
     "description": "Grilled chicken breast patty",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Grill Chicken Burger.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "type": "Non Veg",
     "price": "₹149",
     "description": "Classic chicken burger",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Classic Chicken Burger.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "type": "Non Veg",
     "price": "₹159",
     "description": "Crispy fish patty burger",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Fish Burger.jpeg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Fresh vegetable patty",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Veg Burger.jpeg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Spicy potato patty burger",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Aloo Tikki.jpg"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "type": "Veg",
     "price": "₹109",
     "description": "Cheese filled vegetable burger",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Cheese Delight Burger.jpeg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "type": "Veg",
     "price": "₹139",
     "description": "Crispy paneer patty",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Paneer Burger.jpeg"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "type": "Non Veg",
     "price": "₹99",
     "description": "Crispy fried chicken wrap",
-    "image": "./images/Fride chicken wrap.jpg"
+    "image": "/images/wrap (3).png"
   },
   {
     "id": 23,
@@ -213,7 +213,7 @@
     "type": "Non Veg",
     "price": "₹129",
     "description": "Crispy fish wrap",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/wrap (2).png"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "type": "Veg",
     "price": "₹89",
     "description": "Fresh vegetable wrap",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/wrap (1).png"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Spicy paneer wrap",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "./images/wrap (4).png"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "type": "Non Veg",
     "price": "₹179",
     "description": "Crispy fried chicken on pizza",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Classic Fried Chicken Pizza.jpg"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "type": "Non Veg",
     "price": "₹199",
     "description": "Spicy Mexican style chicken pizza",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Mexican Chicken Pizza.jpeg"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "type": "Non Veg",
     "price": "₹199",
     "description": "Turkish style chicken pizza",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Turkish Chicken Pizza.png"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "type": "Veg",
     "price": "₹179",
     "description": "Fresh sweet corn pizza",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Sweet Corn Pizza.png"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "type": "Veg",
     "price": "₹199",
     "description": "Spicy paneer pizza",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Chilli Paneer Pizza.jpg"
   },
   {
     "id": 32,
