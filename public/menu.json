@@ -24,7 +24,7 @@
     "type": "Non Veg",
     "price": "₹139",
     "description": "Crispy chicken strips",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/chicken strips.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "type": "Non Veg",
     "price": "₹269",
     "description": "Crispy chicken strips",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/chicken strips.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "type": "Non Veg",
     "price": "₹129",
     "description": "Crispy fried chicken wings",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/fride chikken wings.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "type": "Non Veg",
     "price": "₹219",
     "description": "Crispy fried chicken wings",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/fride chikken wings.jpg"
   },
   {
     "id": 7,
@@ -78,7 +78,7 @@
     "type": "Non Veg",
     "price": "₹169",
     "description": "Fries loaded with chicken toppings",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/chicken loaded frise.jpg"
   },
   {
     "id": 10,
@@ -123,7 +123,7 @@
     "type": "Non Veg",
     "price": "₹139",
     "description": "Crispy fried chicken patty",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/burger (2).png"
   },
   {
     "id": 15,
@@ -204,7 +204,7 @@
     "type": "Non Veg",
     "price": "₹99",
     "description": "Special signature chicken wrap",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/signature chicken wrap.jpg"
   },
   {
     "id": 24,
@@ -375,7 +375,7 @@
     "type": "Non Veg",
     "price": "₹159",
     "description": "Rice served with chicken popcorn",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/rice with chicken pocorn.jpg"
   },
   {
     "id": 43,
@@ -420,7 +420,7 @@
     "type": "Non Veg",
     "price": "₹219",
     "description": "Quarter shawaya with rice",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/shawaya with mandi.png"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "type": "Non Veg",
     "price": "₹419",
     "description": "Half shawaya with rice",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/shawaya with mandi.png"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "type": "Non Veg",
     "price": "₹799",
     "description": "Full shawaya with rice",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/shawaya with mandi.png"
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@
     "type": "Non Veg",
     "price": "₹99",
     "description": "1 piece fried chicken combo",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Fride chikken1.jpg"
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@
     "type": "Non Veg",
     "price": "₹179",
     "description": "2 pieces fried chicken combo",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Fride chikken1.jpg"
   },
   {
     "id": 52,
@@ -465,7 +465,7 @@
     "type": "Non Veg",
     "price": "₹349",
     "description": "4 pieces fried chicken combo",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Fride chikken1.jpg"
   },
   {
     "id": 53,
@@ -474,7 +474,7 @@
     "type": "Non Veg",
     "price": "₹649",
     "description": "8 pieces fried chicken combo",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Fride chikken1.jpg"
   },
   {
     "id": 54,
@@ -861,7 +861,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Iced coffee frappe",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/cafe frap.png"
   },
   {
     "id": 97,
@@ -897,7 +897,7 @@
     "type": "Veg",
     "price": "₹69",
     "description": "Special avil milk",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/sp avil milk.png"
   },
   {
     "id": 101,
