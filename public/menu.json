@@ -105,7 +105,7 @@
     "type": "Veg",
     "price": "₹139",
     "description": "Garlic flavored cheese balls",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Garlic Cheese Balls 8 pcs.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "type": "Veg",
     "price": "₹149",
     "description": "Crispy cheese balls",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Cheese Balls 6 pcs.jpg"
   },
   {
     "id": 14,
@@ -357,7 +357,7 @@
     "type": "Non Veg",
     "price": "₹139",
     "description": "Crispy chicken club sandwich",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Chicken Sandwich.jpg"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Fresh vegetable sandwich",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Veg Sandwich.jpg"
   },
   {
     "id": 42,
@@ -384,7 +384,7 @@
     "type": "Non Veg",
     "price": "₹169",
     "description": "Rice served with fried chicken",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Rice with Fried Chicken.png"
   },
   {
     "id": 44,
@@ -501,7 +501,7 @@
     "type": "Veg",
     "price": "₹79",
     "description": "Strong Americano coffee",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Americano.jpeg"
   },
   {
     "id": 57,
@@ -510,7 +510,7 @@
     "type": "Veg",
     "price": "₹79",
     "description": "Smooth café latte",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Café Latte.jpg"
   },
   {
     "id": 58,
@@ -519,7 +519,7 @@
     "type": "Veg",
     "price": "₹79",
     "description": "Creamy flat white coffee",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "./images/Flat White.jpeg"
   },
   {
     "id": 59,
@@ -528,7 +528,7 @@
     "type": "Veg",
     "price": "₹79",
     "description": "Strong espresso shot",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Expresso.png"
   },
   {
     "id": 60,
@@ -537,7 +537,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Chocolate coffee blend",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Café Mocha.jpeg"
   },
   {
     "id": 61,
@@ -834,7 +834,7 @@
     "type": "Veg",
     "price": "₹149",
     "description": "Special falooda dessert drink",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Special Falooda.jpg"
   },
   {
     "id": 94,
@@ -843,7 +843,7 @@
     "type": "Veg",
     "price": "₹59",
     "description": "Sweet traditional lassi",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Lassi.png"
   },
   {
     "id": 95,
@@ -852,7 +852,7 @@
     "type": "Veg",
     "price": "₹59",
     "description": "Salty traditional lassi",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Lassi.png"
   },
   {
     "id": 96,
@@ -870,7 +870,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Hazelnut coffee frappe",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Hazelnut Frape.jpg"
   },
   {
     "id": 98,
@@ -879,7 +879,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Caramel coffee frappe",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Caramel Frape.jpg"
   },
   {
     "id": 99,
@@ -888,7 +888,7 @@
     "type": "Veg",
     "price": "₹49",
     "description": "Traditional avil milk",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/avil milk normal.png"
   },
   {
     "id": 100,
@@ -906,7 +906,7 @@
     "type": "Veg",
     "price": "₹49",
     "description": "Molten chocolate cake",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Choco Lava.jpeg"
   },
   {
     "id": 102,
@@ -915,7 +915,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Rich brownie fudge",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "./images/Brownie Fudge.jpg"
   },
   {
     "id": 103,
@@ -924,7 +924,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Pancake with Nutella spread",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Pan Cake with Nutella.png"
   },
   {
     "id": 104,
@@ -933,7 +933,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Crispy waffle with Nutella",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Waffle with Nutella.png"
   },
   {
     "id": 105,
@@ -942,7 +942,7 @@
     "type": "Veg",
     "price": "₹119",
     "description": "Crispy waffle with Biscoff",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Waffle with Biscoff.jpg"
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@
     "type": "Veg",
     "price": "₹149",
     "description": "Waffle with Nutella and ice cream",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Waffle - Nutella with Ice Cream.jpeg"
   },
   {
     "id": 107,
@@ -960,7 +960,7 @@
     "type": "Veg",
     "price": "₹149",
     "description": "Waffle with Biscoff and ice cream",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Waffle - Biscoff with Ice Cream.jpeg"
   },
   {
     "id": 108,
@@ -969,6 +969,6 @@
     "type": "Veg",
     "price": "₹149",
     "description": "Waffle with both Nutella and Biscoff",
-    "image": "/placeholder.svg?height=160&width=280"
+    "image": "/images/Nutella And Biscoff Waffle.png"
   }
 ]
