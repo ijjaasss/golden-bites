@@ -978,7 +978,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Creamy Salankatia kunafa topped with delicious Lotus biscuit spread and caramelized crumbs",
-    "image": "/images/item_109.jpg"
+    "image": "/images/lotus.jpg"
   },
   {
     "id": 110,
@@ -987,7 +987,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Rich Salankatia kunafa filled with creamy Nutella and roasted hazelnuts",
-    "image": "/images/item_110.jpg"
+    "image": "/images/Nutella Hazelnut.jpg"
   },
   {
     "id": 111,
@@ -996,7 +996,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Creamy Salankatia kunafa with Nutella filling and topped with premium pistachios",
-    "image": "/images/item_111.jpg"
+    "image": "/images/Nutella + Pistachio.jpg"
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Traditional Salankatia kunafa generously topped with crushed pistachios",
-    "image": "/images/item_112.jpg"
+    "image": "/images/Pistachio.jpg"
   },
   {
     "id": 113,
@@ -1014,7 +1014,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Salankatia kunafa combining Nutella and Lotus spread for a decadent treat",
-    "image": "/images/item_113.jpg"
+    "image": "/images/Nutella + Lotus.jpg"
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Creamy Salankatia kunafa with pistachio and Lotus biscuit topping",
-    "image": "/images/item_114.jpg"
+    "image": "/images/Pistachio + Lotus.jpg"
   },
   {
     "id": 115,
@@ -1032,7 +1032,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Mixed kunafa variety (Koshary) topped with sweet Lotus biscuit spread",
-    "image": "/images/item_115.jpg"
+    "image": "/images/lotus.jpg"
   },
   {
     "id": 116,
@@ -1041,7 +1041,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Koshary kunafa filled with Nutella and crunchy hazelnuts",
-    "image": "/images/item_116.jpg"
+    "image": "/images/Nutella Hazelnut.jpg"
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Mixed kunafa with Nutella filling and pistachio topping",
-    "image": "/images/item_117.jpg"
+    "image": "/images/Nutella + Pistachio.jpg"
   },
   {
     "id": 118,
@@ -1059,7 +1059,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Koshary style kunafa generously covered with pistachios",
-    "image": "/images/item_118.jpg"
+    "image": "./images/Pistachio.jpg"
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Koshary kunafa combining Nutella and Lotus spread toppings",
-    "image": "/images/item_119.jpg"
+    "image": "/images/Nutella + Lotus.jpg"
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Mixed kunafa with pistachio and Lotus biscuit combination",
-    "image": "/images/item_120.jpg"
+    "image": "/images/Pistachio + Lotus.jpg"
   },
   {
     "id": 121,
@@ -1086,7 +1086,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Qashtota style kunafa topped with premium pistachios",
-    "image": "/images/item_121.jpg"
+    "image": "./images/Pistachio.jpg"
   },
   {
     "id": 122,
@@ -1095,7 +1095,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Qashtota kunafa with Nutella filling and pistachio topping",
-    "image": "/images/item_122.jpg"
+    "image": "/images/Nutella + Pistachio.jpg"
   },
   {
     "id": 123,
@@ -1104,7 +1104,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Qashtota style kunafa with pistachio and Lotus spread combination",
-    "image": "/images/item_123.jpg"
+    "image": "/images/Pistachio + Lotus.jpg"
   },
   {
     "id": 124,
@@ -1113,7 +1113,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Qashtota kunafa filled with Nutella and hazelnuts",
-    "image": "/images/item_123.jpg"
+    "image": "/images/Nutella Hazelnut.jpg"
   },
   {
     "id": 125,
@@ -1122,7 +1122,7 @@
     "type": "Veg",
     "price": "₹300",
     "description": "Explosively cheesy kunafa bomb with molten cheese center",
-    "image": "/images/item_124.jpg"
+    "image": "/images/Cheesebomb.jpg"
   },
   {
     "id": 126,
@@ -1131,7 +1131,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Soft and fluffy Heba cake-style kunafa dessert",
-    "image": "/images/item_126.jpg"
+    "image": "/images/Heba Cake.png"
   },
   {
     "id": 127,
@@ -1140,7 +1140,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Traditional Kabsasa style kunafa with special crispy texture",
-    "image": "/images/item_127.jpg"
+    "image": "/images/Kabsasa.jpg"
   },
   {
     "id": 128,
@@ -1149,7 +1149,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Soft and creamy Lazy Cat cake variation of kunafa",
-    "image": "/images/item_128.jpg"
+    "image": "/images/Lazy Cat Cake.png"
   },
   {
     "id": 129,
@@ -1158,7 +1158,7 @@
     "type": "Veg",
     "price": "₹280",
     "description": "Traditional kunafa with rich, smooth cream filling",
-    "image": "/images/item_129.jpg"
+    "image": "/images/Classic Cream Kunafa.jpg"
   },
   {
     "id": 130,
@@ -1167,7 +1167,7 @@
     "type": "Veg",
     "price": "₹300",
     "description": "Creamy kunafa with delicious cream cheese filling",
-    "image": "/images/item_130.jpg"
+    "image": "/images/Cream Cheese Kunafa.jpg"
   },
   {
     "id": 131,
@@ -1176,7 +1176,7 @@
     "type": "Veg",
     "price": "₹320",
     "description": "Kunafa with stretchy mozzarella cheese filling",
-    "image": "/images/item_131.jpg"
+    "image": "/images/Mozzarella Cheese Kunafa.jpg"
   },
   {
     "id": 132,
@@ -1185,7 +1185,7 @@
     "type": "Veg",
     "price": "₹320",
     "description": "Kunafa filled with rich, chocolatey Nutella spread",
-    "image": "/images/item_132.jpg"
+    "image": "/images/Nutella Kunafa.jpg"
   },
   {
     "id": 133,
@@ -1194,7 +1194,7 @@
     "type": "Veg",
     "price": "₹330",
     "description": "Premium kunafa topped with buttery cashew nuts",
-    "image": "/images/item_133.jpg"
+    "image": "/images/Cashew Kunafa.jpg"
   },
   {
     "id": 134,
@@ -1203,7 +1203,7 @@
     "type": "Veg",
     "price": "₹350",
     "description": "Luxurious kunafa generously covered with premium pistachios",
-    "image": "/images/item_134.jpg"
+    "image": "/images/Pista Kunafa.jpg"
   }
 
 ]
