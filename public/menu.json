@@ -970,5 +970,240 @@
     "price": "₹149",
     "description": "Waffle with both Nutella and Biscoff",
     "image": "/images/Nutella And Biscoff Waffle.png"
+  },
+  {
+    "id": 109,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Creamy Salankatia kunafa topped with delicious Lotus biscuit spread and caramelized crumbs",
+    "image": "/images/item_109.jpg"
+  },
+  {
+    "id": 110,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Nutella Hazelnut small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Rich Salankatia kunafa filled with creamy Nutella and roasted hazelnuts",
+    "image": "/images/item_110.jpg"
+  },
+  {
+    "id": 111,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Nutella + Pistachio small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Creamy Salankatia kunafa with Nutella filling and topped with premium pistachios",
+    "image": "/images/item_111.jpg"
+  },
+  {
+    "id": 112,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Pistachio small/large",
+    "type": "Veg",
+    "price": "₹200/300",
+    "description": "Traditional Salankatia kunafa generously topped with crushed pistachios",
+    "image": "/images/item_112.jpg"
+  },
+  {
+    "id": 113,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Nutella + Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Salankatia kunafa combining Nutella and Lotus spread for a decadent treat",
+    "image": "/images/item_113.jpg"
+  },
+  {
+    "id": 114,
+    "category": "Laban Kunafa",
+    "name": "Salankatia Pistachio + Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Creamy Salankatia kunafa with pistachio and Lotus biscuit topping",
+    "image": "/images/item_114.jpg"
+  },
+  {
+    "id": 115,
+    "category": "Laban Kunafa",
+    "name": "Koshary Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Mixed kunafa variety (Koshary) topped with sweet Lotus biscuit spread",
+    "image": "/images/item_115.jpg"
+  },
+  {
+    "id": 116,
+    "category": "Laban Kunafa",
+    "name": "Koshary Nutella Hazelnut small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Koshary kunafa filled with Nutella and crunchy hazelnuts",
+    "image": "/images/item_116.jpg"
+  },
+  {
+    "id": 117,
+    "category": "Laban Kunafa",
+    "name": "Koshary Nutella + Pistachio small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Mixed kunafa with Nutella filling and pistachio topping",
+    "image": "/images/item_117.jpg"
+  },
+  {
+    "id": 118,
+    "category": "Laban Kunafa",
+    "name": "Koshary Pistachio small/large",
+    "type": "Veg",
+    "price": "₹200/300",
+    "description": "Koshary style kunafa generously covered with pistachios",
+    "image": "/images/item_118.jpg"
+  },
+  {
+    "id": 119,
+    "category": "Laban Kunafa",
+    "name": "Koshary Nutella + Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Koshary kunafa combining Nutella and Lotus spread toppings",
+    "image": "/images/item_119.jpg"
+  },
+  {
+    "id": 120,
+    "category": "Laban Kunafa",
+    "name": "Koshary Pistachio + Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Mixed kunafa with pistachio and Lotus biscuit combination",
+    "image": "/images/item_120.jpg"
+  },
+  {
+    "id": 121,
+    "category": "Laban Kunafa",
+    "name": "Qashtota Pistachio small/large",
+    "type": "Veg",
+    "price": "₹200/300",
+    "description": "Qashtota style kunafa topped with premium pistachios",
+    "image": "/images/item_121.jpg"
+  },
+  {
+    "id": 122,
+    "category": "Laban Kunafa",
+    "name": "Qashtota Nutella + Pistachio small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Qashtota kunafa with Nutella filling and pistachio topping",
+    "image": "/images/item_122.jpg"
+  },
+  {
+    "id": 123,
+    "category": "Laban Kunafa",
+    "name": "Qashtota Pistachio + Lotus small/large",
+    "type": "Veg",
+    "price": "₹250/350",
+    "description": "Qashtota style kunafa with pistachio and Lotus spread combination",
+    "image": "/images/item_123.jpg"
+  },
+  {
+    "id": 124,
+    "category": "Laban Kunafa",
+    "name": "Qashtota Nutella Hazelnut small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Qashtota kunafa filled with Nutella and hazelnuts",
+    "image": "/images/item_123.jpg"
+  },
+  {
+    "id": 125,
+    "category": "Laban Kunafa",
+    "name": "Cheesebomb",
+    "type": "Veg",
+    "price": "₹300",
+    "description": "Explosively cheesy kunafa bomb with molten cheese center",
+    "image": "/images/item_124.jpg"
+  },
+  {
+    "id": 126,
+    "category": "Laban Kunafa",
+    "name": "Heba Cake small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Soft and fluffy Heba cake-style kunafa dessert",
+    "image": "/images/item_126.jpg"
+  },
+  {
+    "id": 127,
+    "category": "Laban Kunafa",
+    "name": "Kabsasa small/large",
+    "type": "Veg",
+    "price": "₹220/300",
+    "description": "Traditional Kabsasa style kunafa with special crispy texture",
+    "image": "/images/item_127.jpg"
+  },
+  {
+    "id": 128,
+    "category": "Laban Kunafa",
+    "name": "Lazy Cat Cake small/large",
+    "type": "Veg",
+    "price": "₹200/300",
+    "description": "Soft and creamy Lazy Cat cake variation of kunafa",
+    "image": "/images/item_128.jpg"
+  },
+  {
+    "id": 129,
+    "category": "Laban Kunafa",
+    "name": "Classic Cream Kunafa",
+    "type": "Veg",
+    "price": "₹280",
+    "description": "Traditional kunafa with rich, smooth cream filling",
+    "image": "/images/item_129.jpg"
+  },
+  {
+    "id": 130,
+    "category": "Laban Kunafa",
+    "name": "Cream Cheese Kunafa",
+    "type": "Veg",
+    "price": "₹300",
+    "description": "Creamy kunafa with delicious cream cheese filling",
+    "image": "/images/item_130.jpg"
+  },
+  {
+    "id": 131,
+    "category": "Laban Kunafa",
+    "name": "Mozzarella Cheese Kunafa",
+    "type": "Veg",
+    "price": "₹320",
+    "description": "Kunafa with stretchy mozzarella cheese filling",
+    "image": "/images/item_131.jpg"
+  },
+  {
+    "id": 132,
+    "category": "Laban Kunafa",
+    "name": "Nutella Kunafa",
+    "type": "Veg",
+    "price": "₹320",
+    "description": "Kunafa filled with rich, chocolatey Nutella spread",
+    "image": "/images/item_132.jpg"
+  },
+  {
+    "id": 133,
+    "category": "Laban Kunafa",
+    "name": "Cashew Kunafa",
+    "type": "Veg",
+    "price": "₹330",
+    "description": "Premium kunafa topped with buttery cashew nuts",
+    "image": "/images/item_133.jpg"
+  },
+  {
+    "id": 134,
+    "category": "Laban Kunafa",
+    "name": "Pista Kunafa",
+    "type": "Veg",
+    "price": "₹350",
+    "description": "Luxurious kunafa generously covered with premium pistachios",
+    "image": "/images/item_134.jpg"
   }
+
 ]
