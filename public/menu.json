@@ -996,7 +996,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Creamy Salankatia kunafa with Nutella filling and topped with premium pistachios",
-    "image": "/images/Nutella + Pistachio.jpg"
+    "image": "/images/Nutella and Pistachio.jpg"
   },
   {
     "id": 112,
@@ -1014,7 +1014,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Salankatia kunafa combining Nutella and Lotus spread for a decadent treat",
-    "image": "/images/Nutella + Lotus.jpg"
+    "image": "/images/Nutella and Lotus.jpg"
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Creamy Salankatia kunafa with pistachio and Lotus biscuit topping",
-    "image": "/images/Pistachio + Lotus.jpg"
+    "image": "/images/Pistachio and Lotus.jpg"
   },
   {
     "id": 115,
@@ -1050,7 +1050,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Mixed kunafa with Nutella filling and pistachio topping",
-    "image": "/images/Nutella + Pistachio.jpg"
+    "image": "/images/Nutella and Pistachio.jpg"
   },
   {
     "id": 118,
@@ -1068,7 +1068,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Koshary kunafa combining Nutella and Lotus spread toppings",
-    "image": "/images/Nutella + Lotus.jpg"
+    "image": "/images/Nutella and Lotus.jpg"
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Mixed kunafa with pistachio and Lotus biscuit combination",
-    "image": "/images/Pistachio + Lotus.jpg"
+    "image": "/images/Pistachio and Lotus.jpg"
   },
   {
     "id": 121,
@@ -1095,7 +1095,7 @@
     "type": "Veg",
     "price": "₹220/300",
     "description": "Qashtota kunafa with Nutella filling and pistachio topping",
-    "image": "/images/Nutella + Pistachio.jpg"
+    "image": "/images/Nutella and Pistachio.jpg"
   },
   {
     "id": 123,
@@ -1104,7 +1104,7 @@
     "type": "Veg",
     "price": "₹250/350",
     "description": "Qashtota style kunafa with pistachio and Lotus spread combination",
-    "image": "/images/Pistachio + Lotus.jpg"
+    "image": "/images/Pistachio and Lotus.jpg"
   },
   {
     "id": 124,
