@@ -1,5 +1,95 @@
 [
   {
+    "id": 44,
+    "category": "Masala Shawaya",
+    "name": "Shawaya QTR",
+    "type": "Non Veg",
+    "price": "₹149",
+    "description": "Quarter portion of masala shawaya",
+    "image": "/images/shawaya.png"
+  },
+  {
+    "id": 45,
+    "category": "Masala Shawaya",
+    "name": "Shawaya Half",
+    "type": "Non Veg",
+    "price": "₹279",
+    "description": "Half portion of masala shawaya",
+    "image": "/images/shawaya.png"
+  },
+  {
+    "id": 46,
+    "category": "Masala Shawaya",
+    "name": "Shawaya Full",
+    "type": "Non Veg",
+    "price": "₹549",
+    "description": "Full portion of masala shawaya",
+    "image": "/images/shawaya.png"
+  },
+  {
+    "id": 47,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice QTR",
+    "type": "Non Veg",
+    "price": "₹219",
+    "description": "Quarter shawaya with rice",
+    "image": "/images/shawaya with mandi.png"
+  },
+  {
+    "id": 48,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice Half",
+    "type": "Non Veg",
+    "price": "₹419",
+    "description": "Half shawaya with rice",
+    "image": "/images/shawaya with mandi.png"
+  },
+  {
+    "id": 49,
+    "category": "Masala Shawaya",
+    "name": "Masala Shawaya + Rice Full",
+    "type": "Non Veg",
+    "price": "₹799",
+    "description": "Full shawaya with rice",
+    "image": "/images/shawaya with mandi.png"
+  },
+  {
+    "id": 50,
+    "category": "Fried Combo",
+    "name": "Fried Chicken 1 pc",
+    "type": "Non Veg",
+    "price": "₹99",
+    "description": "1 piece fried chicken combo",
+    "image": "/images/Fride chikken1.jpg"
+  },
+  {
+    "id": 51,
+    "category": "Fried Combo",
+    "name": "Fried Chicken 2 pcs",
+    "type": "Non Veg",
+    "price": "₹179",
+    "description": "2 pieces fried chicken combo",
+    "image": "/images/Fride chikken1.jpg"
+  },
+  {
+    "id": 52,
+    "category": "Fried Combo",
+    "name": "Fried Chicken 4 pcs",
+    "type": "Non Veg",
+    "price": "₹349",
+    "description": "4 pieces fried chicken combo",
+    "image": "/images/Fride chikken1.jpg"
+  },
+  {
+    "id": 53,
+    "category": "Fried Combo",
+    "name": "Fried Chicken 8 pcs",
+    "type": "Non Veg",
+    "price": "₹649",
+    "description": "8 pieces fried chicken combo",
+    "image": "/images/Fride chikken1.jpg"
+  },
+  {
     "id": 1,
     "category": "Starters",
     "name": "Chicken Nugget 8pc",
@@ -118,7 +208,7 @@
   },
   {
     "id": 14,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Fried Chicken Burger",
     "type": "Non Veg",
     "price": "₹139",
@@ -127,7 +217,7 @@
   },
   {
     "id": 15,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Grill Chicken Burger",
     "type": "Non Veg",
     "price": "₹149",
@@ -136,7 +226,7 @@
   },
   {
     "id": 16,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Classic Chicken Burger",
     "type": "Non Veg",
     "price": "₹149",
@@ -145,7 +235,7 @@
   },
   {
     "id": 17,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Fish Burger",
     "type": "Non Veg",
     "price": "₹159",
@@ -154,7 +244,7 @@
   },
   {
     "id": 18,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Veg Burger",
     "type": "Veg",
     "price": "₹99",
@@ -163,7 +253,7 @@
   },
   {
     "id": 19,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Aloo Tikki",
     "type": "Veg",
     "price": "₹99",
@@ -172,7 +262,7 @@
   },
   {
     "id": 20,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Cheese Delight Burger",
     "type": "Veg",
     "price": "₹109",
@@ -181,7 +271,7 @@
   },
   {
     "id": 21,
-    "category": "Burger",
+    "category": "Burger & Wrap",
     "name": "Paneer Burger",
     "type": "Veg",
     "price": "₹139",
@@ -190,7 +280,7 @@
   },
   {
     "id": 22,
-    "category": "Wraps",
+    "category": "Burger & Wrap",
     "name": "Fried Chicken Wrap",
     "type": "Non Veg",
     "price": "₹99",
@@ -199,7 +289,7 @@
   },
   {
     "id": 23,
-    "category": "Wraps",
+    "category": "Burger & Wrap",
     "name": "Signature Chicken Wrap",
     "type": "Non Veg",
     "price": "₹99",
@@ -208,7 +298,7 @@
   },
   {
     "id": 24,
-    "category": "Wraps",
+    "category": "Burger & Wrap",
     "name": "Fish Wrap",
     "type": "Non Veg",
     "price": "₹129",
@@ -217,7 +307,7 @@
   },
   {
     "id": 25,
-    "category": "Wraps",
+    "category": "Burger & Wrap",
     "name": "Veg Wrap",
     "type": "Veg",
     "price": "₹89",
@@ -226,7 +316,7 @@
   },
   {
     "id": 26,
-    "category": "Wraps",
+    "category": "Burger & Wrap",
     "name": "Paneer Wrap",
     "type": "Veg",
     "price": "₹119",
@@ -235,7 +325,7 @@
   },
   {
     "id": 27,
-    "category": "Pizza",
+    "category": "Pizza & Club Sandwich",
     "name": "Classic Fried Chicken Pizza",
     "type": "Non Veg",
     "price": "₹179",
@@ -244,7 +334,7 @@
   },
   {
     "id": 28,
-    "category": "Pizza",
+    "category": "Pizza & Club Sandwich",
     "name": "Mexican Chicken Pizza",
     "type": "Non Veg",
     "price": "₹199",
@@ -253,7 +343,7 @@
   },
   {
     "id": 29,
-    "category": "Pizza",
+    "category": "Pizza & Club Sandwich",
     "name": "Turkish Chicken Pizza",
     "type": "Non Veg",
     "price": "₹199",
@@ -262,7 +352,7 @@
   },
   {
     "id": 30,
-    "category": "Pizza",
+    "category": "Pizza & Club Sandwich",
     "name": "Sweet Corn Pizza",
     "type": "Veg",
     "price": "₹179",
@@ -271,7 +361,7 @@
   },
   {
     "id": 31,
-    "category": "Pizza",
+    "category": "Pizza & Club Sandwich",
     "name": "Chilli Paneer Pizza",
     "type": "Veg",
     "price": "₹199",
@@ -352,7 +442,7 @@
   },
   {
     "id": 40,
-    "category": "Club Sandwich",
+    "category": "Pizza & Club Sandwich",
     "name": "Chicken Sandwich",
     "type": "Non Veg",
     "price": "₹139",
@@ -361,7 +451,7 @@
   },
   {
     "id": 41,
-    "category": "Club Sandwich",
+    "category": "Pizza & Club Sandwich",
     "name": "Veg Sandwich",
     "type": "Veg",
     "price": "₹119",
@@ -370,7 +460,7 @@
   },
   {
     "id": 42,
-    "category": "Rice Bowl",
+    "category": "Starters",
     "name": "Rice with Chicken Popcorn",
     "type": "Non Veg",
     "price": "₹159",
@@ -379,102 +469,12 @@
   },
   {
     "id": 43,
-    "category": "Rice Bowl",
+    "category": "Starters",
     "name": "Rice with Fried Chicken",
     "type": "Non Veg",
     "price": "₹169",
     "description": "Rice served with fried chicken",
     "image": "/images/Rice with Fried Chicken.png"
-  },
-  {
-    "id": 44,
-    "category": "Masala Shawaya",
-    "name": "Shawaya QTR",
-    "type": "Non Veg",
-    "price": "₹149",
-    "description": "Quarter portion of masala shawaya",
-    "image": "/images/shawaya.png"
-  },
-  {
-    "id": 45,
-    "category": "Masala Shawaya",
-    "name": "Shawaya Half",
-    "type": "Non Veg",
-    "price": "₹279",
-    "description": "Half portion of masala shawaya",
-    "image": "/images/shawaya.png"
-  },
-  {
-    "id": 46,
-    "category": "Masala Shawaya",
-    "name": "Shawaya Full",
-    "type": "Non Veg",
-    "price": "₹549",
-    "description": "Full portion of masala shawaya",
-    "image": "/images/shawaya.png"
-  },
-  {
-    "id": 47,
-    "category": "Masala Shawaya",
-    "name": "Masala Shawaya + Rice QTR",
-    "type": "Non Veg",
-    "price": "₹219",
-    "description": "Quarter shawaya with rice",
-    "image": "/images/shawaya with mandi.png"
-  },
-  {
-    "id": 48,
-    "category": "Masala Shawaya",
-    "name": "Masala Shawaya + Rice Half",
-    "type": "Non Veg",
-    "price": "₹419",
-    "description": "Half shawaya with rice",
-    "image": "/images/shawaya with mandi.png"
-  },
-  {
-    "id": 49,
-    "category": "Masala Shawaya",
-    "name": "Masala Shawaya + Rice Full",
-    "type": "Non Veg",
-    "price": "₹799",
-    "description": "Full shawaya with rice",
-    "image": "/images/shawaya with mandi.png"
-  },
-  {
-    "id": 50,
-    "category": "Combo Meals",
-    "name": "Fried Chicken 1 pc",
-    "type": "Non Veg",
-    "price": "₹99",
-    "description": "1 piece fried chicken combo",
-    "image": "/images/Fride chikken1.jpg"
-  },
-  {
-    "id": 51,
-    "category": "Combo Meals",
-    "name": "Fried Chicken 2 pcs",
-    "type": "Non Veg",
-    "price": "₹179",
-    "description": "2 pieces fried chicken combo",
-    "image": "/images/Fride chikken1.jpg"
-  },
-  {
-    "id": 52,
-    "category": "Combo Meals",
-    "name": "Fried Chicken 4 pcs",
-    "type": "Non Veg",
-    "price": "₹349",
-    "description": "4 pieces fried chicken combo",
-    "image": "/images/Fride chikken1.jpg"
-  },
-  {
-    "id": 53,
-    "category": "Combo Meals",
-    "name": "Fried Chicken 8 pcs",
-    "type": "Non Veg",
-    "price": "₹649",
-    "description": "8 pieces fried chicken combo",
-    "image": "/images/Fride chikken1.jpg"
   },
   {
     "id": 54,
@@ -550,7 +550,7 @@
   },
   {
     "id": 62,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Lime Juice",
     "type": "Veg",
     "price": "₹39",
@@ -559,7 +559,7 @@
   },
   {
     "id": 63,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Mint Lime",
     "type": "Veg",
     "price": "₹49",
@@ -568,7 +568,7 @@
   },
   {
     "id": 64,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Pineapple Lime",
     "type": "Veg",
     "price": "₹49",
@@ -577,7 +577,7 @@
   },
   {
     "id": 65,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Lemon Soda",
     "type": "Veg",
     "price": "₹49",
@@ -586,7 +586,7 @@
   },
   {
     "id": 66,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Watermelon Juice",
     "type": "Veg",
     "price": "₹59",
@@ -595,7 +595,7 @@
   },
   {
     "id": 67,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Mosambi Juice",
     "type": "Veg",
     "price": "₹59",
@@ -604,7 +604,7 @@
   },
   {
     "id": 68,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Pineapple Juice",
     "type": "Veg",
     "price": "₹79",
@@ -613,7 +613,7 @@
   },
   {
     "id": 69,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Apple Juice",
     "type": "Veg",
     "price": "₹99",
@@ -622,7 +622,7 @@
   },
   {
     "id": 70,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Pomegranate Juice",
     "type": "Veg",
     "price": "₹99",
@@ -631,7 +631,7 @@
   },
   {
     "id": 71,
-    "category": "Fresh Juice",
+    "category": "Fresh Juice & Mojito",
     "name": "Mango Juice",
     "type": "Veg",
     "price": "₹99",
@@ -757,7 +757,7 @@
   },
   {
     "id": 85,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Virgin Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -766,7 +766,7 @@
   },
   {
     "id": 86,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Blue Berry Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -775,7 +775,7 @@
   },
   {
     "id": 87,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Green Apple Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -784,7 +784,7 @@
   },
   {
     "id": 88,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Blue Lagoon Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -793,7 +793,7 @@
   },
   {
     "id": 89,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Spicy Mango Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -802,7 +802,7 @@
   },
   {
     "id": 90,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Chilli Guava Mojito",
     "type": "Veg",
     "price": "₹99",
@@ -811,7 +811,7 @@
   },
   {
     "id": 91,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Passion Fruit Mojito",
     "type": "Veg",
     "price": "₹119",
@@ -820,7 +820,7 @@
   },
   {
     "id": 92,
-    "category": "Mojitos",
+    "category": "Fresh Juice & Mojito",
     "name": "Yuzu Lemonade",
     "type": "Veg",
     "price": "₹119",
@@ -829,7 +829,7 @@
   },
   {
     "id": 93,
-    "category": "Special Falooda",
+    "category": "Milk Shake",
     "name": "Special Falooda",
     "type": "Veg",
     "price": "₹149",
@@ -838,7 +838,7 @@
   },
   {
     "id": 94,
-    "category": "Lassi",
+    "category": "Fresh Juice & Mojito",
     "name": "Lassi Sweet",
     "type": "Veg",
     "price": "₹59",
@@ -847,7 +847,7 @@
   },
   {
     "id": 95,
-    "category": "Lassi",
+    "category": "Fresh Juice & Mojito",
     "name": "Lassi Salt",
     "type": "Veg",
     "price": "₹59",
@@ -856,7 +856,7 @@
   },
   {
     "id": 96,
-    "category": "Cold Coffee",
+    "category": "Milk Shake",
     "name": "Café Frape",
     "type": "Veg",
     "price": "₹99",
@@ -865,7 +865,7 @@
   },
   {
     "id": 97,
-    "category": "Cold Coffee",
+    "category": "Milk Shake",
     "name": "Hazelnut Frape",
     "type": "Veg",
     "price": "₹119",
@@ -874,7 +874,7 @@
   },
   {
     "id": 98,
-    "category": "Cold Coffee",
+    "category": "Milk Shake",
     "name": "Caramel Frape",
     "type": "Veg",
     "price": "₹119",
@@ -883,7 +883,7 @@
   },
   {
     "id": 99,
-    "category": "Avil Milk",
+    "category": "Milk Shake",
     "name": "Normal Avil Milk",
     "type": "Veg",
     "price": "₹49",
@@ -892,7 +892,7 @@
   },
   {
     "id": 100,
-    "category": "Avil Milk",
+    "category": "Milk Shake",
     "name": "Special Avil Milk",
     "type": "Veg",
     "price": "₹69",
