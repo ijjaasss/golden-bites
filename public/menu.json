@@ -915,7 +915,7 @@
     "type": "Veg",
     "price": "₹99",
     "description": "Rich brownie fudge",
-    "image": "./images/Brownie Fudge.jpg"
+    "image": "/images/Brownie Fudge.jpg"
   },
   {
     "id": 103,
@@ -1059,7 +1059,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Koshary style kunafa generously covered with pistachios",
-    "image": "./images/Pistachio.jpg"
+    "image": "/images/Pistachio.jpg"
   },
   {
     "id": 119,
@@ -1086,7 +1086,7 @@
     "type": "Veg",
     "price": "₹200/300",
     "description": "Qashtota style kunafa topped with premium pistachios",
-    "image": "./images/Pistachio.jpg"
+    "image": "/images/Pistachio.jpg"
   },
   {
     "id": 122,
